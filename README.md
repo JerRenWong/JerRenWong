@@ -1,4 +1,4 @@
-## Hi it's Jer Ren here👋
+## Hi it's Jer Ren here 👋
 Learning GitHub (better late than never)
 <!--
 **JerRenWong/JerRenWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
